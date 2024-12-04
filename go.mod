@@ -10,7 +10,7 @@ require (
 	golang.org/x/oauth2 v0.8.0
 	google.golang.org/genproto v0.0.0-20221207170731-23e4bf6bdc37
 	google.golang.org/grpc v1.53.0-dev
-	google.golang.org/protobuf v1.30.0
+	google.golang.org/protobuf v1.35.2
 	gopkg.in/square/go-jose.v2 v2.6.0
 )
 
